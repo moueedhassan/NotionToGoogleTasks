@@ -1,6 +1,5 @@
 # NotionToGoogleTasks
 
-NotionToGoogleTasks
 A command-line Python application that syncs your to-do tasks from Notion database to Google Tasks using the Notion API and Google Tasks API.
 
 Features
